@@ -25,8 +25,9 @@ function App() {
             <td>Designer</td>
           </tr>
         </table>
-      </div>
 
+      </div>
+      <script type="text/javascript" src="api.js"></script>
     </>
   );
 }
