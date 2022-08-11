@@ -14,3 +14,7 @@
   display: flex;
   justify-content: center;
 }
+
+.rightAlign {
+  text-align: right;
+}
